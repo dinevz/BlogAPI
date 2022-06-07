@@ -1,1 +1,4 @@
-"# BlogAPI" 
+# BlogAPI
+
+# Documentation at
+localhost:/docs/
